@@ -1,0 +1,6 @@
+Thumbs.db
+.vs
+.DS_Store
+[Dd]ebug*/
+*.sln
+*.vcxproj*
