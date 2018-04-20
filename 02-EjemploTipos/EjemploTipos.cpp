@@ -3,11 +3,10 @@
  * EjemploTipos.cpp
  * Ejemplificación de tipos de datos
  * Ariel Silva
- * 20180413
+ * 20180420
  */
 
 #include <cassert>
-#include <ciso646>
 #include <cmath>
 #include <string>
 
